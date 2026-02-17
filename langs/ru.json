@@ -1,6 +1,7 @@
 {
   "widget": {
-    "name": "Hide Field Logs",
-    "description": "Скрывает системные логи Sensei в ленте"
+    "name": "Hide Sensei Logs",
+    "short_description": "Скрывает логи Sensei в ленте",
+    "description": "Скрывает системные записи Sensei и роботов в ленте карточки"
   }
 }
