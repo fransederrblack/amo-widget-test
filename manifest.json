@@ -1,15 +1,23 @@
 {
-  "widget_code": "amo_hide_logs",
-  "widget_name": {
-    "ru": "Hide Field Logs"
+  "widget": {
+    "name": "widget.name",
+    "description": "widget.description",
+    "short_description": "widget.short_description",
+    "version": "1.0.0",
+    "interface_version": 2,
+    "init_once": false,
+    "locale": ["ru"],
+    "installation": false,
+    "support": {
+      "link": "https://fransederrblack.github.io/amo-widget-test/"
+    }
   },
-  "widget_description": {
-    "ru": "Скрывает системные логи Sensei в ленте"
-  },
-  "widget_version": "1.0",
-  "widget_cover": "cover.png",
-  "widget_logo": "logo.png",
-  "permissions": [],
-  "locations": ["ccard", "lcard"],
-  "langs": ["ru"]
+  "locations": ["lcard-0", "ccard-0"],
+  "tour": {
+    "is_tour": true,
+    "tour_images": {
+      "ru": ["/images/logo.png"]
+    },
+    "tour_description": "widget.short_description"
+  }
 }
