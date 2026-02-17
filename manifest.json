@@ -1,0 +1,15 @@
+{
+  "widget_code": "amo_hide_logs",
+  "widget_name": {
+    "ru": "Hide Field Logs"
+  },
+  "widget_description": {
+    "ru": "Скрывает системные логи Sensei в ленте"
+  },
+  "widget_version": "1.0",
+  "widget_cover": "cover.png",
+  "widget_logo": "logo.png",
+  "permissions": [],
+  "locations": ["ccard", "lcard"],
+  "langs": ["ru"]
+}
