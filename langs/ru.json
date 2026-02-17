@@ -1,0 +1,6 @@
+{
+  "widget": {
+    "name": "Hide Field Logs",
+    "description": "Скрывает системные логи Sensei в ленте"
+  }
+}
